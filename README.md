@@ -76,7 +76,7 @@ Explore the project to find examples of various methods related to arrays and st
 3. Navigate through the folders and review the JavaScript files for examples of array and string methods.
 
 
-##**Screen Shot**
+## **Screen Shot**
 ![method1](https://github.com/Mugheessaad/Methods-Array-String/assets/110941437/5483dab8-21b2-4c66-b3cf-0aa47fa7f7ae)
 ![method2](https://github.com/Mugheessaad/Methods-Array-String/assets/110941437/a31b98bc-eab3-406c-b1d1-adc668bd9e69)
 ![method3](https://github.com/Mugheessaad/Methods-Array-String/assets/110941437/94cb4ae3-0b94-4c9d-9d05-b70a7fbf2a7c)
